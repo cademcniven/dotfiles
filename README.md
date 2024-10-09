@@ -1,5 +1,5 @@
 # My Dotfiles
-This directory contains the dotfiles for my system
+This directory contains the dotfiles for my system. Set up was copied from [Stow has forever changed the way I manage my dotfiles](https://www.youtube.com/watch?v=y6XCebnB9gs).
 
 ## Requirements
 Ensure you have the following installed on your system
