@@ -6,12 +6,12 @@ Ensure you have the following installed on your system
 
 ### Git
 ```
-sudo apt get git
+sudo apt install git
 ```
 
 ### Stow
 ```
-sudo apt get stow
+sudo apt install stow
 ```
 
 ## Installation
